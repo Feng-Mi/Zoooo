@@ -1,3 +1,2 @@
-﻿  ConsoleApplication1.cpp
-ConsoleApplication1.obj : error LNK2001: unresolved external symbol "public: static unsigned int Animal::i" (?i@Animal@@2IA)
-D:\Документы\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe : fatal error LNK1120: 1 unresolved externals
+﻿  main.cpp
+  ConsoleApplication1.vcxproj -> D:\Projects\C++\Zoooo\Debug\ConsoleApplication1.exe
